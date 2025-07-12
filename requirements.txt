@@ -3,4 +3,3 @@ pypdf2
 sentence-transformers==2.2.2
 scikit-learn
 numpy
-torch==2.0.1
