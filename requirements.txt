@@ -1,0 +1,6 @@
+streamlit
+PyPDF2
+sentence-transformers==2.2.2
+scikit-learn
+torch==2.1.2
+numpy
